@@ -1,3 +1,7 @@
+<!---
+
+Still to be do: pull the active issues from GitHub https://github.com/OpenBD/openbd-core/issues
+
 <cfcachecontent ACTION="CACHE" CACHENAME="issuesfeed" CACHEDWITHIN="#CreateTimeSpan( 0, 1, 0, 0 )#">
 
 <cfsilent>
@@ -19,3 +23,5 @@
 		</ul>
 
 </cfcachecontent>
+
+--->

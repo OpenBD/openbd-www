@@ -1,9 +1,4 @@
 <cfsilent>
-
-	<!---
-		$Id:$
-	--->
-
 <cfscript>
 	// common site wide js files
 	commonJs = [

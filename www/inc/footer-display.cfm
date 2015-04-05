@@ -1,11 +1,3 @@
-<cfsilent>
-
-	<!--- 
-		$Id:$ 
-	--->
-
-</cfsilent>
-
 </div><!--- end wrap --->
 
 <div class="footer">
@@ -19,7 +11,7 @@
 			<li><a <cfif request.page.thispage == "about">class="active"</cfif> href="/about/">About</a></li>
 			<li><a <cfif request.page.thispage == "logos">class="active"</cfif> href="/resources/">Resources</a></li>
 			<li><a <cfif request.page.thispage == "contact">class="active"</cfif> href="/contact/">Contact</a></li>
-			<li><a href="http://code.google.com/p/openbluedragon/issues/list">Issue Tracker</a></li>
+			<li><a href="https://github.com/OpenBD/">GitHub</a></li>
 			<li><a class="twit" href="http://twitter.com/openbluedragon">Twitter</a></li>
 		</ul>
 

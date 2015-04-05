@@ -66,7 +66,7 @@
 		<div class="download-info">
 			<a class="notes" href="/manual/?/releases">View release notes</a>
 			<a class="code" href="/download/#request.releaseversion#/openbluedragon-src-#request.releaseversion#.zip">Download source code</a>
-			<a class="source" href="http://websvn.openbd.org/">Browse source</a>
+			<a class="source" href="https://github.com/OpenBD/openbd-core/tree/master/src">Browse source</a>
 		</div>
 		</cfoutput>
 	</div><!--- end container --->
@@ -109,7 +109,7 @@
 		<div class="download-info">
 			<a class="notes" href="/notes/">View release notes</a>
 			<a class="code" href="/download/nightly/openbluedragon-src.zip">Download source code</a>
-			<a class="source" href="http://websvn.openbd.org/">Browse source</a>
+			<a class="source" href="https://github.com/OpenBD/openbd-core/tree/master/src">Browse source</a>
 			<a class="console" href="https://github.com/OpenBD/openbd-administrator">Admin console</a>
 		</div>
 		</cfoutput>
