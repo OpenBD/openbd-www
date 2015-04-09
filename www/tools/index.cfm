@@ -90,7 +90,7 @@ public array function myAwesomeFunction( required string awesome, maybeAwesome =
 				Simply point it to the root of a project, a target folder, specify what files to process (Default is .cfc and .cfm) and hit Go, after a few seconds you should have documentation.
 			</p>
 			<p>
-				You can find the <a href="https://github.com/MFernstrom/cfmldoc">source</a> and binaries on GitHub, right now there is only a binary for <a href="https://github.com/MFernstrom/cfmldoc/tree/master/bin/windows/CFMLDoc">Windows</a> available, though Linux will be available soon.
+				You can find the <a href="https://github.com/MFernstrom/cfmldoc">source</a> and binaries on GitHub, there are binaries for <a href="https://github.com/MFernstrom/cfmldoc/tree/master/bin/windows/CFMLDoc">Windows</a> and <a href="https://github.com/MFernstrom/cfmldoc/tree/master/bin">Linux</a>.
 			</p>
 			<img src="cfdocScreen.png" /><br>
 			<p>
