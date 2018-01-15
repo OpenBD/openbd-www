@@ -23,13 +23,13 @@
 		
 		<div class="full left">
 			<h2>aw2.0 Ltd</h2>
-			<a href="http://aw20.co.uk/" title="aw20.co.uk">
+			<a href="http://www.aw20.co.uk/" title="www.aw20.co.uk">
 				<img class="left" src="/a/img/services.png" alt="aw2.0 Ltd logo" title="aw2.0 Ltd" />
 			</a>
-			<p><a href="http://aw20.co.uk/" title="aw20.co.uk">aw2.0 Ltd</a> are the official maintainers of the OpenBD code base, believing whole heartedly in the open source philosophy that sharing over 400K lines worth of software engineering can bring. </p>
+			<p><a href="http://www.aw20.co.uk/" title="www.aw20.co.uk">aw2.0 Ltd</a> are the official maintainers of the OpenBD code base, believing whole heartedly in the open source philosophy that sharing over 400K lines worth of software engineering can bring. </p>
 			<p>Professional services and official support is available for OpenBD through aw2.0 Ltd. Please contact us for more information.</p>
 			<ul>
-				<li><span class="label">w: </span><a href="http://aw20.co.uk">aw20.co.uk</a></li>
+				<li><span class="label">w: </span><a href="http://www.aw20.co.uk">aw20.co.uk</a></li>
 			</ul>
 		</div>
 
