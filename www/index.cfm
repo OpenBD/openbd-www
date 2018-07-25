@@ -147,7 +147,7 @@
 
 		<div class="third left">
 		<h3>Mailing List</h3>
-		<a href="http://groups.google.com/group/openbd/"><img src="/a/img/mailinglist.png" alt=""></a>
+		<a href="http://groups.google.com/group/openbluedragon/"><img src="/a/img/mailinglist.png" alt=""></a>
 		<p>Have a question? Join fellow developers on the mailing list.</p>
 		</div>
 
