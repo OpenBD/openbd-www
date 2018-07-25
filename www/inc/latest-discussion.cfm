@@ -2,7 +2,7 @@
 
 <cfsilent>
 	<cfset rssObj = new a.private.rss() />
-	<cfset rssQry	= rssObj.getFeed( "https://groups.google.com/forum/feed/openbd/topics/atom_v1_0.xml" ) />
+	<cfset rssQry	= rssObj.getFeed( "https://groups.google.com/forum/feed/openbluedragon/topics/atom_v1_0.xml" ) />
 </cfsilent>
 
 	<h3>Latest Discussion</h3>
