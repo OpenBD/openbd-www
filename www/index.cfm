@@ -11,7 +11,7 @@
 <div class="feature">
 	<div class="container cf">
 		<h1><img src="/a/img/home-headline.png" alt="OpenBD Java CFML Engine" title="OpenBD Java CFML Engine"/></h1>
-		<p>OpenBD is the worlds first truly <strong class="ylw">open source</strong> and <strong class="grn">free</strong> GPL Java CFML runtime.</p>
+		<p>OpenBD is the world's first truly <strong class="ylw">open source</strong> and <strong class="grn">free</strong> GPL Java CFML runtime.</p>
 
 		<a class="helpme cf" href="/choose/"><em>First time here?</em> <span>Help me choose</span></a>
 		<a class="opensource cf" href="/downloads/"><em>No Cost! It's Free</em> <span>Download now</span></a>
